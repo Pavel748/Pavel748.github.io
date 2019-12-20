@@ -618,7 +618,7 @@
                                 border: none;
                                 background-color: transparent;
                                 position: absolute;
-                                top: 45%;
+                                top: -35%;
                             }
                             
                             .project_item:hover .project_btn_link {
